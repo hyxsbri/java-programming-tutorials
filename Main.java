@@ -3,11 +3,16 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		int i = 20;
-		i = i+1;
-		System.out.println(i);
-		
-		
+		String a = "I Love You.";
+		if (a.contains("Love"))
+		{
+			System.out.println("Me Too.");
+		}
+		else
+		{
+			System.out.println("I Hate You.");
+		}
+		}
 	}
-	
-}
+
+
