@@ -4,4 +4,7 @@
 ## 이클립스 환경을 기반으로 직접 코드를 구현하며 학습 했습니다.
 ##
 ### #java #programming #tutorials #basics #eclipseIDE
+### 강의명: 자바 기초 프로그래밍 강좌(Java Programming Tutorial)
+### 멘토: 나동빈
+### https://github.com/ndb796
 ##
